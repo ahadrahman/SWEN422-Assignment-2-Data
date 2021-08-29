@@ -1,4 +1,4 @@
-name,code,TotalCovidCases
+name,code,cases
 United States of America,USA,37969371
 India,IND,32558530
 Brazil,BRA,20614866
@@ -34,7 +34,6 @@ Sweden,SWE,1120628
 Romania,ROU,1093924
 Portugal,PRT,1025869
 Israel,ISR,1024100
-Cyprus,CYP,836321
 Kazakhstan,KAZ,829924
 Morocco,MAR,829137
 Hungary,HUN,811517
@@ -58,13 +57,12 @@ Panama,PAN,453466
 Costa Rica,CRI,447672
 Bulgaria,BGR,446698
 Guatemala,GTM,444924
-Western Sahara,ESH,440428
 Kuwait,KWT,408797
 Sri Lanka,LKA,407768
 Azerbaijan,AZE,401828
 Slovakia,SVK,394446
 Uruguay,URY,384287
-Vi?t Nam,VNM,381363
+Viet Nam,VNM,381363
 Myanmar,MMR,380879
 Croatia,HRV,371623
 "Occupied Palestinian territory, including east Jerusalem",PSE,360121
@@ -108,6 +106,7 @@ Zimbabwe,ZWE,123711
 Ghana,GHA,115525
 Montenegro,MNE,111736
 Uganda,UGA,98530
+Cyprus,CYP,96603
 China,CHN,94765
 El Salvador,SLV,94060
 Cambodia,KHM,90535
@@ -121,7 +120,7 @@ Jamaica,JAM,63831
 Malawi,MWI,59954
 Democratic Republic of the Congo,COD,54226
 Cote d'Ivoire,CIV,54038
-Réunion,REU,48683
+Reunion,REU,48683
 Australia,AUS,46728
 Angola,AGO,46539
 Fiji,FJI,44745
@@ -147,12 +146,11 @@ Seychelles,SYC,19806
 Mayotte,MYT,19726
 Papua New Guinea,PNG,17975
 Bahamas,BHS,17615
-Somalia,SOM,17016
 Tajikistan,TJK,17007
 Taiwan,TWN,15954
 Belize,BLZ,15683
+Northern Cyprus,-99,15675
 Timor-Leste,TLS,15296
-Curaçao,,15045
 Andorra,AND,15014
 Mali,MLI,14796
 Lesotho,LSO,14388
@@ -161,6 +159,7 @@ Lao People's Democratic Republic,LAO,13909
 Burkina Faso,BFA,13737
 Congo,COG,13533
 Benin,BEN,12492
+Somalia,SOM,12408
 Burundi,BDI,11818
 Djibouti,DJI,11707
 South Sudan,SDS,11347
@@ -185,8 +184,8 @@ Gibraltar,GIB,5308
 San Marino,SMR,5305
 Chad,TCD,4987
 Barbados,BRB,4694
+Somaliland,ABV,4608
 Comoros,COM,4055
-Sint Maarten,,3520
 Liechtenstein,LIE,3359
 Monaco,MCO,3163
 Saint Martin,MAF,3147
@@ -198,7 +197,6 @@ British Virgin Islands,VGB,2568
 Sao Tome and Principe,STP,2555
 Saint Vincent and the Grenadines,VCT,2321
 Brunei Darussalam,BRN,2159
-Bonaire,,1745
 Saint Barthelemy,BLM,1553
 Antigua and Barbuda,ATG,1540
 United Republic of Tanzania,TZA,1367
@@ -206,7 +204,6 @@ Dominica,DMA,1339
 Guernsey,GGY,1195
 Faroe Islands,FRO,999
 Saint Kitts and Nevis,KNA,929
-Other,,764
 Cayman Islands,CYM,669
 Greenland,GRL,313
 Northern Mariana Islands,MNP,232
@@ -214,23 +211,19 @@ Grenada,GRD,230
 Anguilla,AIA,174
 New Caledonia,NCL,135
 Falkland Islands (Malvinas),FLK,64
-Antarctica,ATA,58
+Antarctica,ATA,59
 Saint Pierre and Miquelon,SPM,30
-Holy See (Vatican City),,26
 Montserrat,MSR,25
-Sint Eustatius,,24
 Solomon Islands,SLB,20
-Saba,,10
+Western Sahara,ESH,10
 Marshall Islands,MHL,4
 Vanuatu,VUT,3
 Palau,PLW,2
 Samoa,WSM,1
-American Samoa,,0
 Cook Islands,COK,0
 Democratic People's Republic of Korea,PRK,0
 French Southern and Antarctic Lands,ATF,0
 Kiribati,KIR,0
-Micronesia,,0
 Nauru,NRU,0
 Niue,NIU,0
 Pitcairn Islands,PCN,0
